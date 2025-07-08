@@ -66,16 +66,16 @@ Alternatively, use the provided script to extract text into a CSV file.
 
 ## 🧠 How It Works
 **Text Extraction**
-Resume content is extracted from PDF files using a parsing tool or OCR.
+- Resume content is extracted from PDF files using a parsing tool or OCR.
 
 **Prompt Engineering**
-Tailored prompts are designed and run via Prompt Lab using IBM watsonx.ai to classify content.
+- Tailored prompts are designed and run via Prompt Lab using IBM watsonx.ai to classify content.
 
 **Classification**
-Resumes are categorized based on detected keywords, skills, and experiences using foundation models.
+- Resumes are categorized based on detected keywords, skills, and experiences using foundation models.
 
 **Report Generation**
-A classification summary is generated and saved to /reports.
+- A classification summary is generated and saved to /reports.
 
 ---
 
