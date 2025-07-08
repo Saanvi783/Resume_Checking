@@ -24,7 +24,7 @@ The **Resume Screening Assistant** is a smart automation tool designed to classi
 ---
 
 ## 📁 Project Structure
-
+```tree
 Resume_Checking/
 │
 ├── resumes/ # Folder containing PDF resumes
@@ -35,7 +35,7 @@ Resume_Checking/
 ├── main.py # Main entry point of the application
 ├── requirements.txt # Python dependencies
 └── README.md # Project documentation
-
+```
 
 ---
 
