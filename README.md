@@ -133,7 +133,7 @@ Contributions are welcome! If you’d like to improve functionality, fix bugs, o
 
 ## 📄 License
 This project is licensed under the MIT License.
-See the LICENSE file for more details.
+See the [LICENSE](LICENSE.md) file for more details.
 
 ---
 
